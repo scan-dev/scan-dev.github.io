@@ -1,2 +1,2 @@
-# scan-dev.guthub.io
+# scan-dev.github.io
 VMLab Tech Blog
